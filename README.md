@@ -1,5 +1,5 @@
 # Automatic-Trailer-Generation
-                                                                 **Automatic Trailer Generation**
+**Automatic Trailer Generation**
                                                                  
 
 This repository contains all the relevant information about my internship project: Automatic Trailer Generation.
